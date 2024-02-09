@@ -1,13 +1,4 @@
 body {
-  background: #fff;
-}
-
-img {
-  padding: 2rem;
-  height: 200px;
-}
-
-body {
   background-color: #f0f0f0;
 }
 
@@ -20,6 +11,8 @@ body {
 }
 
 #pudim-img {
+  padding: 2rem;
+  height: 200px;
   width: 100%;
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
